@@ -1,0 +1,25 @@
+.footer-div{
+    width: 100%;
+    background-color: darkcyan;
+}
+
+.signup-div{
+    display: flex;
+    background-color: darkcyan;
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    justify-content: space-around;
+    font-size: 1.5em;
+    padding: 6px 0;
+}
+
+.email-subscribe-button{
+    background-color: lightgray;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 0.75em;
+    margin: 0px 0px 0px 12px;
+    cursor: pointer;
+}

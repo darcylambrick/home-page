@@ -1,0 +1,27 @@
+h1{
+    font-size: 3em;
+    padding: 18px 0px 18px 0px;
+}
+
+.article-section-div{
+    width: 75%;
+    text-align: center;
+    margin: auto;
+}
+
+.featured-articles-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.big-button {
+    background-color: darkcyan;
+    border: none;
+    color: white;
+    padding: 12px 60px 12px 60px;
+    text-align: center;
+    font-size: 2em;
+    margin: 24px 0px 12px 0px;
+    cursor: pointer;
+    border-radius: 32px
+}

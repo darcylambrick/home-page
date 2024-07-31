@@ -1,0 +1,8 @@
+.rating-author-div{
+    display: flex;
+}
+
+.article-div {
+    width: 320px;
+    height: fit-content;
+}
